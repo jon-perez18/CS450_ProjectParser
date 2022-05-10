@@ -1,5 +1,4 @@
-// cs490 project.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//Note: this is actually a datavis project. just named the file incorrectly. oh well.
+// cs450 project.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // Author: Andrew Hinton
 
 #include <iostream>
